@@ -4,7 +4,7 @@ import tools.Cnsl;
 
 public class CheckModel {
 //	Variables:
-	private final String symbolsForCheck = "1234567890+-*/";
+	private final String symbolsForCheck = "1234567890+-*/.";
 	private final String operators = "+-*/";
 	private final String digits = "1234567890";
 	
